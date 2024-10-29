@@ -1,1 +1,1 @@
-# ubuntu-git
+# Ubuntu & Git
