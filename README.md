@@ -74,7 +74,7 @@ Untuk detail dari tiap command, dapat menggunakan `--help` pada bagian belakang 
 | `git add <filename>`               | add a file to the staging area    |
 | `git add .`                        | add all files to the staging area |
 | `git commit`                       | commit changes                    |
-| `git commit -m "<commit message>"` | commit changes & add a message    |
+| git commit -m "[commit message](#commit-message-guidelines)" | commit changes & add a message |
 
 ### Branching
 | Command                                              | Usage                                                                        |
@@ -101,3 +101,6 @@ Untuk detail dari tiap command, dapat menggunakan `--help` pada bagian belakang 
 | `git push`                                 | push changes to remote repository                                          |
 | `git pull`                                 | update the local repository with the latest changes from the remote branch |
 | `git diff <source branch> <target branch>` | preview changes before merging                                             |
+
+
+### [Commit Message Guidelines](https://gist.github.com/nyancodeid/63f19941c81252bb0cca9c14497cf9f7#file-commit-message-md)
