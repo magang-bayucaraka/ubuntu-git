@@ -74,7 +74,7 @@ Untuk detail dari tiap command, dapat menggunakan `--help` pada bagian belakang 
 | `git add <filename>`               | add a file to the staging area    |
 | `git add .`                        | add all files to the staging area |
 | `git commit`                       | commit changes                    |
-| git commit -m "[commit message](#commit-message-guidelines)" | commit changes & add a message |
+| git commit -m "[commit message](https://gist.github.com/nyancodeid/63f19941c81252bb0cca9c14497cf9f7#file-commit-message-md)" | commit changes & add a message |
 
 ### Branching
 | Command                                              | Usage                                                                        |
